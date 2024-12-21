@@ -127,7 +127,7 @@
 							"Spanish (Spain)" : "Carne obtenida de un venado, secada con sal. Tardará más tiempo en ponerse mala.",
                             "German" :  "Fleisch von einem Hirsch oder Reh, mit Salz getrocknet. Verdirbt nicht so schnell.",
                             "Turkish" : "Bir geyikten hasat edilen et. Tuzda bekletilmiş. Bozulması uzun zaman alır.",
-                            "Japanese" : "鹿肉を塩漬けにして乾燥させたもの。駄目になるまでより時間がかかる。"
+                            "Japanese" : "牡鹿か牝鹿から獲れた肉を塩で干し肉にしたもの。駄目になるまでより時間がかかる。"
     },
     "GAMEPLAY_SaltedMeatMoose" : {
                             "English" : "Salted Moose Meat",
@@ -141,7 +141,7 @@
 							"Spanish (Spain)" : "Carne obtenida de un alce, salada para secarse.",
                             "German" :  "Fleisch von einem Elch, gesalzen um zu trocknen",
                             "Turkish" : "Bir amerikan geyiğinden hasat edilen et. Tuzlanmış ve bir süre bekletilmiş.",
-                            "Japanese" : "ヘラジカから獲れた肉、乾燥させるため塩漬けにしてある。"
+                            "Japanese" : "ヘラジカから獲れた肉、干し肉にするため塩漬けにしてある。"
     },
     "GAMEPLAY_CuredMeatMoose" : {
                             "English" : "Cured Moose Meat",
@@ -155,7 +155,7 @@
 							"Spanish (Spain)" : "Carne obtenida de un alce, secada con sal. Tardará más tiempo en ponerse mala.",
                             "German" :  "Fleisch von einem Elch, mit Salz getrocknet. Verdirbt nicht so schnell.",
                             "Turkish" : "Bir amerikan geyiğinden hasat edilen et. Tuzda bekletilmiş. Bozulması uzun zaman alır.",
-                            "Japanese" : "ヘラジカの肉を塩漬けにして乾燥させたもの。駄目になるまでより時間がかかる。"
+                            "Japanese" : "ヘラジカから獲れた肉を塩で干し肉にしたもの。駄目になるまでより時間がかかる。"
     },
     "GAMEPLAY_SaltedMeatBear" : {
                             "English" : "Salted Bear Meat",
@@ -169,7 +169,7 @@
 							"Spanish (Spain)" : "Carne obtenida de un oso, salada para secarse.",
                             "German" :  "Fleisch von einem Bären, gesalzen um zu trocknen.",
                             "Turkish" : "Bir Ayıdan hasat edilen et. Tuzlanmış ve bir süre bekletilmiş.",
-                            "Japanese" : "クマから獲れた肉、乾燥させるため塩漬けにしてある。"
+                            "Japanese" : "クマから獲れた肉、干し肉にするため塩漬けにしてある。"
     },
     "GAMEPLAY_CuredMeatBear" : {
                             "English" : "Cured Bear Meat",
@@ -183,7 +183,7 @@
 							"Spanish (Spain)" : "Carne obtenida de un oso, secada con sal. Tardará más tiempo en ponerse mala.",
                             "German" :  "Fleisch von einem Bären, mit Salz getrocknet. Verdirbt nicht so schnell.",
                             "Turkish" : "Bir Ayıdan hasat edilen et. Tuzda bekletilmiş. Bozulması uzun zaman alır",
-                            "Japanese" : "クマの肉を塩漬けにして乾燥させたもの。生や焼いたものより長持ちする。"
+                            "Japanese" : "クマから獲れた肉を塩で干し肉にしたもの。駄目になるまでより時間がかかる。"
     },
     "GAMEPLAY_SaltedMeatWolf" : {
                             "English" : "Salted Wolf Meat",
@@ -197,7 +197,7 @@
 							"Spanish (Spain)" : "Carne obtenida de un lobo, salada para secarse.",
                             "German" :  "Fleisch von einem Wolf, gesalzen um zu trocknen.",
                             "Turkish" : "Bir kurttan hasat edilen et. Tuzlanmış ve bir süre bekletilmiş.",
-                            "Japanese" : "オオカミの肉を塩漬けにして乾燥させたもの。"
+                            "Japanese" : "オオカミから獲れた肉、干し肉にするため塩漬けにしてある。"
     },
     "GAMEPLAY_CuredMeatWolf" : {
                             "English" : "Cured Wolf Meat",
@@ -211,7 +211,7 @@
 							"Spanish (Spain)" : "Carne obtenida de un lobo, secada con sal. Tardará más tiempo en ponerse mala.",
                             "German" :  "Fleisch von einem Wolf, mit Salz getrocknet. Verdirbt nicht so schnell.",
                             "Turkish" : "Bir kurttan hasat edilen et. Tuzda bekletilmiş. Bozulması uzun zaman alır.",
-                            "Japanese" : "オオカミの肉を塩漬けにして乾燥させたもの。生や焼いたものより長持ちする。"
+                            "Japanese" : "オオカミから獲れた肉を塩で干し肉にしたもの。駄目になるまでより時間がかかる。"
     },
 	"GAMEPLAY_SaltedMeatPtarmigan" : {
                             "English" : "Salted Ptarmigan Meat",
@@ -225,7 +225,7 @@
 							"Spanish (Spain)" : "Carne obtenida de un tarmigán, salada para secarse.",
                             "German" :  "Fleisch von einem Schneehuhn, gesalzen um zu trocknen",
                             "Turkish" : "Bir kar tavuğundan hasat edilen et. Tuzlanmış ve bir süre bekletilmiş.",
-                            "Japanese" : "雷鳥の肉を塩漬けにして乾燥させたもの。"
+                            "Japanese" : "雷鳥から獲れた肉、干し肉にするため塩漬けにしてある。"
     },
 	"GAMEPLAY_CuredMeatPtarmigan" : {
                             "English" : "Cured Ptarmigan Meat",
@@ -239,7 +239,7 @@
 							"Spanish (Spain)" : "Carne obtenida de un tarmigán, secada con sal. Tardará más tiempo en ponerse mala.",
                             "German" :  "Fleisch von einem Schneehuhn, mit Salz getrocknet. Verdirbt nicht so schnell.",
                             "Turkish" : "Bir kar tavuğundan hasat edilen et. Tuzde bekletilmiş. Bozulması uzun zaman alır.",
-                            "Japanese" : "雷鳥の肉を塩漬けにして乾燥させたもの。生や焼いたものより長持ちする。"
+                            "Japanese" : "雷鳥から獲れた肉を塩で干し肉にしたもの。駄目になるまでより時間がかかる。"
     },
     "GAMEPLAY_BirdFeatherBundle" : {
                             "English" : "Crow Feathers",
@@ -253,7 +253,7 @@
 							"Spanish (Spain)" : "Un grupo de plumas obtenidas de un cuervo.",
                             "German" :  "Ein Bündel Federn von einer Krähe.",
                             "Turkish" : "Kargadan toplanan bir demet tüy.",
-                            "Japanese" : "一まとめにされたカラスの羽毛。"
+                            "Japanese" : "カラスから獲れた羽毛の束。"
     },
     "GAMEPLAY_BirdEggRaw" : {
                             "English" : "Bird Egg",
@@ -267,7 +267,7 @@
 							"Spanish (Spain)" : "Huevo de un ave sin identificar. Probablemente nunca eclosione. No te lo comas crudo.",
                             "German" :  "Das Ei eines unbekannten Vogels. Vielleicht wird es nicht schlüpfen. Nicht roh essen.",
                             "Turkish" : "Kimliği belirsiz bir kuşun yumurtası. Muhtemelen yumurtadan çıkmayacak. Çiğ yemeyin.",
-                            "Japanese" : "何らかの野鳥の卵。ふ化することは多分ないだろう。生で食べないように。"
+                            "Japanese" : "何らかの野鳥の卵。おそらく、ふ化はしないだろう。生で食べないように。"
     },
     "GAMEPLAY_BirdEggBoiled" : {
                             "English" : "Boiled Bird Egg",
@@ -351,7 +351,7 @@
 							"Spanish (Spain)" : "Trozo de carne proveniente del cadáver de una orca.Quizás sea de utilidad.",
                             "German" :  "Fleischklumpen eines Orcakadavers. Könnte nützlich sein.",
                             "Turkish" : "",
-                            "Japanese" : "シャチの死体から採れた肉塊。役に立つかもしれない。"
+                            "Japanese" : "シャチの死体から獲れた肉塊。役に立つかもしれない。"
     },
 	"GAMEPLAY_OrcaFat" : {
                             "English" : "Orca Blubber",
@@ -365,7 +365,7 @@
 							"Spanish (Spain)" : "Trozo de grasa proveniente del cadáver de una orca. Está aceitoso y apesta una barvaridad. Quizás puedas encontrarle algún uso.",
                             "German" :  "Speckklumpen eines Orcakadavers. Es ist ölig und stinkt sehr. Vielleicht findest du dafür einen Nutzen.",
                             "Turkish" : "Bir katil balina leşinden hasat edilmiş balina yağı parçası. Yağlı ve çok kokuyor. Biraz faydasını görebilirsin.",
-                            "Japanese" : "シャチの死体から採れた脂の塊。脂っこくて臭い。使い道がありそうだ。"
+                            "Japanese" : "シャチの死体から獲れた脂の塊。脂っこくてとても臭い。使い道があるかもしれない。"
     },
 	"GAMEPLAY_FuelOrca" : {
                             "English" : "Orca Oil",
@@ -393,7 +393,7 @@
 							"Spanish (Spain)" : "Carne proveniente del cadáver de una orca. Un poco grasienta al tacto. Jurarías haber escuchado que la gente ha comido ballenas alguna vez.",
                             "German" :  "Fleisch von einem Orcakadaver. Fühlt sich etwas fettig an. Dass Menschen schon einmal Wale gegessen haben, hast du schon gehört.",
                             "Turkish" : "Bir katil balina ölüsünden hasat edilen et. Dokunmak için biraz yağlı. Daha önce bir yerde insanların balina yediğini duymuşsunuzdur.",
-                            "Japanese" : "シャチの死体から採れた肉。触ると少し脂っこい。君は、どこかの国の人はかつてクジラを食べていたという話を聞いたことがある。"
+                            "Japanese" : "シャチの死体から獲れた肉。触ると少し脂っこい。君は、どこかの国の人はかつてクジラを食べていたという話を聞いたことがある。"
     },	
 	"GAMEPLAY_OrcaMeatCooked" : {
                             "English" : "Cooked Orca Meat",
@@ -407,7 +407,7 @@
 							"Spanish (Spain)" : "Carne proveniente de una orca. Un poco grasienta al tacto. No tiene mala pinta.",
                             "German" :  "Fleisch eines Orcas. Fühlt sich etwas fettig an. Sieht gar nicht so schlecht aus.",
                             "Turkish" : "Katil Balina eti. Dokunmak için biraz yağlı. Yarı kötü görünmüyor.",
-                            "Japanese" : "シャチの死体から採れた肉。触ると少し脂っこい。見た目はそう悪くはない。"
+                            "Japanese" : "シャチの死体から獲れた肉。触ると少し脂っこい。見た目はそう悪くはない。"
     },
     "GAMEPLAY_SaltedMeatOrca" : {
                             "English" : "Salted Orca Meat",
@@ -421,7 +421,7 @@
 							"Spanish (Spain)" : "Carne obtenida de una orca, salada para secarse.",
                             "German" :  "Fleisch von einem Orca, gesalzen um zu trocknen.",
                             "Turkish" : "Katil Balinadan hasat edilen et. Tuzlanmış ve bir süre bekletilmiş.",
-                            "Japanese" : "シャチの肉を塩漬けにして乾燥させたもの。"
+                            "Japanese" : "シャチから獲れた肉、干し肉にするため塩漬けにしてある。"
     },
     "GAMEPLAY_CuredMeatOrca" : {
                             "English" : "Cured Orca Meat",
@@ -435,7 +435,7 @@
 							"Spanish (Spain)" : "Carne obtenida de una orca, secada con sal. Tardará más tiempo en ponerse mala.",
                             "German" :  "Fleisch von einem Orca, mit Salz getrocknet. Verdirbt nicht so schnell.",
                             "Turkish" : "Katil Balinadan hasat edilen et. Tuzda bekletilmiş. Bozulması uzun zaman alır.",
-                            "Japanese" : "シャチの肉を塩漬けにして乾燥させたもの。生や焼いたものより長持ちする。"
+                            "Japanese" : "シャチから獲れた肉を塩で干し肉にしたもの。駄目になるまでより時間がかかる。"
     },	
 	"GAMEPLAY_BeeHive" : {
                             "English" : "Hive",
@@ -449,7 +449,7 @@
 							"Spanish (Spain)" : "Una colmena de abejas congelada, algo dificil de ver estos días. Quizás aún le puedas sacar algo de valor. Parece abandonado, y no parece que las abejas vayan a volver pronto.",
                             "German" :  "Ein gefrorener Bienenstock, heutzutage ein seltener Anblick. Vielleicht kann man etwas Brauchbares daraus machen. Sieht verlassen aus und die Bienen werden wohl nicht so schnell zurückkommen.",
                             "Turkish" : "Donmuş bir arı kovanı, bugünlerde nadir görülen bir manzara. Belki yine de ondan işe yarar bir şeyler alabilirsin. Terk edilmiş görünüyor ve arılar yakın zamanda geri gelmeyecek.",
-                            "Japanese" : "この時期にはめったに見つからない凍り付いたミツバチの巣。何かに使えるかもしれない。巣はどうやら空のようで、ミツバチがすぐに戻ってくることもなさそうだ。"
+                            "Japanese" : "凍り付いたミツバチの巣、最近はめったに目にすることがない。もしかしたら、何かに役に立つものが手に入るかもしれない。巣はどうやら空のようで、ミツバチはすぐ戻ってはこないだろう。"
     },
 	"GAMEPLAY_BeeHarvestedHoney" : {
                             "English" : "Honey",
@@ -463,7 +463,7 @@
 							"Spanish (Spain)" : "Miel natural, extraida de una colmena de abejas. Dulce y llena de energía.",
                             "German" :  "Natürlicher Honig, aus einem Bienenstock extrahiert. Süß und voller Energie.",
                             "Turkish" : "Arı Kovanından çıkarılmış doğal bal. Tatlı ve bol enerjili",
-                            "Japanese" : "ミツバチの巣から採れた天然のはちみつ。甘くて栄養たっぷり。"
+                            "Japanese" : "天然のはちみつ、ハチの巣から取り出されたものだ。甘くて栄養たっぷり。"
     },
 	"GAMEPLAY_NestEmpty" : {
                             "English" : "Empty Nest",
@@ -519,7 +519,7 @@
 							"Spanish (Spain)" : "Piña de abeto a la que se le han extraido las semillas. Puede usarse como combustible para fogatas.",
                             "German" :  "Ein Zapfen eines Tannenbaumes, dessen Samen entfernt wurden. Kann als nützlicher Brennstoff verwendet werden.",
                             "Turkish" : "Tohumları çıkarılmış bir köknar ağacının kozalağı. Ateş yakmak için kullanılabilir.",
-                            "Japanese" : "種を取り去ったモミの木の実。燃料として使える。"
+                            "Japanese" : "モミの木の実、種は取り去られている。燃料として使える。"
     },
 	"GAMEPLAY_1FirConeFuelSingle" : {
                             "English" : "cone.",
@@ -659,7 +659,7 @@
 							"Spanish (Spain)" : "Formación de carbón. Rómpela en pedazos más pequeños pata poder usarlos.",
                             "German" :  "Ein Brocken Kohle. Zum Benutzen in kleine Stücke brechen.",
                             "Turkish" : "Bir kömür oluşumu. Kullanmak için daha küçük parçalara ayırın.",
-                            "Japanese" : "石炭の地層。細かく砕いて使う。"
+                            "Japanese" : "石炭の層。使うにはより小さく砕く必要がある。"
     },
 	"GAMEPLAY_HaliteSingle" : {
                             "English" : "chunk",
