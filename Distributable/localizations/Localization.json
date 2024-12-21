@@ -27,7 +27,7 @@
 							"Spanish (Spain)" : "Carne obtenida de un cuervo. No es precisamente un menú de cuatro platos, y no es muy agradable, pero es comida. No te lo comas crudo.",
                             "German" :  "Fleisch von einer Krähe. Nicht gerade ein Vier-Gänge-Menü und nicht sehr angenehm, aber es ist Essen. Nicht roh essen.",
                             "Turkish" : "Bir kargadan hasat edilen et. Tam olarak dört kişilik bir yemek değil ve çok hoşta değil, ama bu bir yemek. Çiğ yemeyin.",
-                            "Japanese" : "カラスの肉。フルコース料理でもなければ美味しくもないが、食べ物だ。生のまま食べないように。"
+                            "Japanese" : "カラスの肉。フルコース料理じゃないし美味しくもないけど、食べ物だ。生のまま食べないように。"
 
     },
     "GAMEPLAY_BirdMeatCooked" : {
@@ -42,7 +42,7 @@
 							"Spanish (Spain)" : "Carne obtenida de un cuervo. No es precisamente un menú de cuatro platos, y no es muy agradable, pero es comida. Parece pollo, si no lo piensas demasaido..",
                             "German" :  "Fleisch von einer Krähe. Nicht gerade ein Vier-Gänge-Menü und nicht sehr angenehm, aber es ist Essen. Sieht aus wie Hühnchen, wenn man nicht viel darüber nachdenkt.",
                             "Turkish" : "Bir kargadan hasat edilen et. Tam olarak dört kişilik bir yemek değil ve çok hoşta değil, ama bu bir yemek. Fazla düşünmezsen tadı tavuk gibi geliyor.",
-                            "Japanese" : "カラスの肉。フルコース料理でもなければ美味しくもないが、食べ物だ。一見鶏肉に見えないこともない。"
+                            "Japanese" : "カラスの肉。4コース料理じゃないし美味しくもないけど、食べ物だ。一見鶏肉に見えないこともない。"
 
     },
     "GAMEPLAY_SaltedMeatBird" : {
@@ -57,21 +57,21 @@
 							"Spanish (Spain)" : "Carne obtenida de un cuervo, salada para secarse.",
                             "German" :  "Fleisch von einer Krähe, gesalzen um zu trocknen.",
                             "Turkish" : "Bir kargadan hasat edilen et. Tuzlanmış ve bir süre dinlendirilmiş",
-                            "Japanese" : "カラスの肉を塩漬けにして乾燥させたもの。"
+                            "Japanese" : "カラスから獲れた肉、干し肉にするため塩漬けにしてある。"
     },
     "GAMEPLAY_CuredMeatBird" : {
                             "English" : "Cured Crow Meat",
 							"Spanish (Spain)" : "Carne de cuervo curada",
                             "German" :  "Getrocknetes Krähenfleisch",
                             "Turkish" : "Tütsülenmiş Karga Eti",
-                            "Japanese" : "保存処理済みのカラスの肉"
+                            "Japanese" : "保存処理をしたカラスの肉"
     },
     "GAMEPLAY_CuredMeatBirdDescription" : {
                             "English" : "Meat harvested from a crow, dried with salt. Will take longer to go bad.",
 							"Spanish (Spain)" : "Carne obtenida de un cuervo, secada con sal. Tardará más tiempo en ponerse mala.",
                             "German" :  "Fleisch von einer Krähe, mit Salz getrocknet. Verdirbt nicht so schnell.",
                             "Turkish" : "Bir kargadan hasat edilen et. Tuzda bekletilmiş. Bozulması uzun zaman alır.",
-                            "Japanese" : "カラスの肉を塩漬けにして乾燥させたもの。生や焼いたものより長持ちする。"
+                            "Japanese" : "カラスから獲れた肉を塩で干し肉にしたもの。駄目になるまでより時間がかかる。"
     },
     "GAMEPLAY_SaltedMeatRabbit" : {
                             "English" : "Salted Rabbit Meat",
@@ -85,21 +85,21 @@
 							"Spanish (Spain)" : "Carne obtenida de un conejo, salada para secarse.",
                             "German" :  "Fleisch eines Kaninchens, gesalzen um zu trocknen.",
                             "Turkish" : "Bir tavşandan hasat edilen et. Tuzlanmış ve bir süre bekletilmiş.",
-                            "Japanese" : "ウサギの肉を塩漬けにして乾燥させたもの。"
+                            "Japanese" : "ウサギから獲れた肉、干し肉にするため塩漬けにしてある。"
     },
     "GAMEPLAY_CuredMeatRabbit" : {
                             "English" : "Cured Rabbit Meat",
 							"Spanish (Spain)" : "Carne de conejo curada",
                             "German" :  "Fleisch eines Kaninchens, gesalzen um zu trocknen.",
                             "Turkish" : "Tütsülenmiş Tavşan Eti",
-                            "Japanese" : "保存処理済みのウサギの肉"
+                            "Japanese" : "保存処理をしたウサギの肉"
     },
     "GAMEPLAY_CuredMeatRabbitDescription" : {
                             "English" : "Meat harvested from a rabbit, dried with salt. Will take longer to go bad.",
 							"Spanish (Spain)" : "Carne obtenida de un conejo, secada con sal. Tardará más tiempo en ponerse mala.",
                             "German" :  "Fleisch von einem Kaninchen, mit Salz getrocknet. Verdirbt nicht so schnell.",
                             "Turkish" : "Bir tavşandan hasat edilen et. Tuzda bekletilmiş. Bozulması uzun zaman alır.",
-                            "Japanese" : "ウサギの肉を塩漬けにして乾燥させたもの。生や焼いたものより長持ちする。"
+                            "Japanese" : "ウサギから獲れた肉を塩で干し肉にしたもの。駄目になるまでより時間がかかる。"
     },
     "GAMEPLAY_SaltedMeatVenison" : {
                             "English" : "Salted Venison Meat",
@@ -113,7 +113,7 @@
 							"Spanish (Spain)" : "Carne obtenida de un venado, salada para secarse.",
                             "German" :  "Fleisch von einem Hirsch oder Reh, gesalzen um zu trocknen.",
                             "Turkish" : "Bir geyikten hasat edilen et. Tuzlanmış ve bir süre bekletilmiş.",
-                            "Japanese" : "鹿肉を塩漬けにして乾燥させたもの。"
+                            "Japanese" : "牡鹿か牝鹿から獲れた肉、干し肉にするため塩漬けにしてある。"
     },
     "GAMEPLAY_CuredMeatVenison" : {
                             "English" : "Cured Venison Meat",
@@ -127,7 +127,7 @@
 							"Spanish (Spain)" : "Carne obtenida de un venado, secada con sal. Tardará más tiempo en ponerse mala.",
                             "German" :  "Fleisch von einem Hirsch oder Reh, mit Salz getrocknet. Verdirbt nicht so schnell.",
                             "Turkish" : "Bir geyikten hasat edilen et. Tuzda bekletilmiş. Bozulması uzun zaman alır.",
-                            "Japanese" : "鹿肉を塩漬けにして乾燥させたもの。生や焼いたものより長持ちする。"
+                            "Japanese" : "鹿肉を塩漬けにして乾燥させたもの。駄目になるまでより時間がかかる。"
     },
     "GAMEPLAY_SaltedMeatMoose" : {
                             "English" : "Salted Moose Meat",
@@ -141,7 +141,7 @@
 							"Spanish (Spain)" : "Carne obtenida de un alce, salada para secarse.",
                             "German" :  "Fleisch von einem Elch, gesalzen um zu trocknen",
                             "Turkish" : "Bir amerikan geyiğinden hasat edilen et. Tuzlanmış ve bir süre bekletilmiş.",
-                            "Japanese" : "ヘラジカの肉を塩漬けにして乾燥させたもの。"
+                            "Japanese" : "ヘラジカから獲れた肉、乾燥させるため塩漬けにしてある。"
     },
     "GAMEPLAY_CuredMeatMoose" : {
                             "English" : "Cured Moose Meat",
@@ -155,7 +155,7 @@
 							"Spanish (Spain)" : "Carne obtenida de un alce, secada con sal. Tardará más tiempo en ponerse mala.",
                             "German" :  "Fleisch von einem Elch, mit Salz getrocknet. Verdirbt nicht so schnell.",
                             "Turkish" : "Bir amerikan geyiğinden hasat edilen et. Tuzda bekletilmiş. Bozulması uzun zaman alır.",
-                            "Japanese" : "ヘラジカの肉を塩漬けにして乾燥させたもの。生や焼いたものより長持ちする。"
+                            "Japanese" : "ヘラジカの肉を塩漬けにして乾燥させたもの。駄目になるまでより時間がかかる。"
     },
     "GAMEPLAY_SaltedMeatBear" : {
                             "English" : "Salted Bear Meat",
@@ -169,7 +169,7 @@
 							"Spanish (Spain)" : "Carne obtenida de un oso, salada para secarse.",
                             "German" :  "Fleisch von einem Bären, gesalzen um zu trocknen.",
                             "Turkish" : "Bir Ayıdan hasat edilen et. Tuzlanmış ve bir süre bekletilmiş.",
-                            "Japanese" : "クマの肉を塩漬けにして乾燥させたもの。"
+                            "Japanese" : "クマから獲れた肉、乾燥させるため塩漬けにしてある。"
     },
     "GAMEPLAY_CuredMeatBear" : {
                             "English" : "Cured Bear Meat",
